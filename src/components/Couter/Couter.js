@@ -6,12 +6,11 @@ Couter.propTypes = {
 };
 
 function Couter(props) {
-    return ( <
-        div >
-
-        <
-        h2 > Hello world < /h2>  <
-        /div>
+    return ( 
+      <div>
+        <h2> Hello world </h2>  
+        <h2> Hello world </h2>  
+      </div>
     );
 }
 
